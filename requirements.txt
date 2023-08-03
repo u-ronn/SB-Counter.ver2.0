@@ -1,0 +1,7 @@
+numpy==1.21.1
+torch==1.9.0
+torchvision==0.10.0
+opencv-python==4.5.3.56
+streamlit==0.88.0
+git+https://github.com/ultralytics/yolov5
+git+https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
